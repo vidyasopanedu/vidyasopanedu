@@ -1,7 +1,5 @@
-# Give a star if you are helped by this repo 🙏
-
-# School-Profile-Website
-This is school profile for SDN 2 Ampeldento, Malang
+# Vidyasopan-Website
+This is official website for Vidyasopan Educational Services
 
 Link : [website](https://shizu-ka.github.io/School-Profile-Website/)
 
